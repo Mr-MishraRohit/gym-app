@@ -1,4 +1,4 @@
-# 🏋️‍♂️ TheGymZy - Train Smart, Live Fit
+# 🏋️‍♂️ Gym App - Train Smart, Live Fit
 
 **Gym App** is a sleek, dark-themed fitness companion app designed for general fitness enthusiasts. Whether you're just starting out or you're a seasoned athlete, Gym App helps you stay consistent, set goals, track progress, and connect with the fitness community.
 
